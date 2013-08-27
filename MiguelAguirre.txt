@@ -1,0 +1,3 @@
+Para ignorar archivos es necesario crear un archivo llamado ".gitignore" donde se listaran tales archivos. 
+
+Git no ignorara archivos que ya hayan sido añadidos, para eso hay que removerlos con git rm --cached archivo.
